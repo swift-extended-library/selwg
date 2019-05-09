@@ -8,14 +8,12 @@ The Swift Extended Library work group is a steering team that promotes the use o
 
 Analogous to the Core Team for Swift, the work group is responsible for providing overall technical direction and establishing the standards by which libraries and tools are proposed, developed and eventually recommended.
 
-The current Swift Extended Library work group consists of the following people:
+The current Swift Extended Library work group consists of the following people in alphabetical order:
 
-* Dave DeLong ([@chris_bailey](https://forums.swift.org/u/chris_bailey), IBM Kitura)
-* Ian Partridge ([@ianpartridge](https://forums.swift.org/u/ianpartridge), IBM Kitura)
-* Logan Wright ([@loganwright](https://github.com/loganwright), Vapor)
-* Tanner Nelson ([@tanner0101](https://forums.swift.org/u/tanner0101), Vapor)
-* Johannes Weiss ([@johannesweiss](https://forums.swift.org/u/johannesweiss), Apple)
-* Tom Doron ([@tomerd](https://forums.swift.org/u/tomerd), Apple)
+* Dave DeLong ([@davedelong](https://forums.swift.org/u/davedelong), Freelance)
+* Erica Saduna ([@Erica_Sadun](https://forums.swift.org/u/erica_sadun), Twitter)
+* Lance Parker ([@lancep](https://forums.swift.org/u/lancep), Snap)
+* Matthew Johnson ([@anandabits](https://forums.swift.org/u/anandabits), Freelance)
 
 ## Communication
 
