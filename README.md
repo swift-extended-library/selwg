@@ -11,7 +11,7 @@ Analogous to the Core Team for Swift, the work group is responsible for providin
 The current Swift Extended Library work group consists of the following people in alphabetical order:
 
 * Dave DeLong ([@davedelong](https://forums.swift.org/u/davedelong), Freelance)
-* Erica Saduna ([@Erica_Sadun](https://forums.swift.org/u/erica_sadun), Twitter)
+* Erica Sadun ([@Erica_Sadun](https://forums.swift.org/u/erica_sadun), Twitter)
 * Lance Parker ([@lancep](https://forums.swift.org/u/lancep), Snap)
 * Matthew Johnson ([@anandabits](https://forums.swift.org/u/anandabits), Freelance)
 
