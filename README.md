@@ -53,7 +53,7 @@ See [Incubation Process](process/incubation.md)
 
 ## Projects
 
-| Project | Sponser | Maturity Level | Pitched | Accepted |
+| Project | Sponsor | Maturity Level | Pitched | Accepted |
 |---|---|---|---|---|
 | TBD | TBD | TBD | TBD | TBD |
 
